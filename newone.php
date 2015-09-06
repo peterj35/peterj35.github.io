@@ -108,7 +108,7 @@ $posts = ( isset($_GET['id'])) ? get_posts($_GET['id']) : get_posts();
             <div class="box">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <p>
-                        Things I'm working on these days:
+                        Things that I'm working on these days:
                         <ul>
                             <li>An Android-based app that allows users to check out what anonymous casual meetups or hangouts are happening around their location</li>
                             <li>A C++ hockey-based local-multiplayer video game with OOP skills</li>
