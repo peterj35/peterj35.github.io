@@ -1,0 +1,4 @@
+AuthUserFile /home/peterju.com/blog/backend/.htpasswd
+AuthType Basic
+AuthName "DevBackend"
+Require valid-user

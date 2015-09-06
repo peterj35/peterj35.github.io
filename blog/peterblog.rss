@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>What's New on PeterJ's Blog</title>
+<link>http://www.peterju.com/blog/peterblog.rss</link>
+<description>Keep up to date on Peter's Development Blog.</description>
+<atom:link href="http://www.peterju.com/blog/peterblog.rss" rel="self" type="application/rss+xml" />
+
+</channel>
+</rss>

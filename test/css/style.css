@@ -1,0 +1,73 @@
+/* general styling */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
+body{
+	font: 12px Arial,Tahoma,Helvetica,FreeSans,sans-serif;
+	text-transform: inherit;
+	color: #333;
+	background: #e7edee;
+	width: 100%;
+}
+.wrap{
+	width: 720px;
+	margin: 15px auto;
+	padding: 15px 10px;
+	background: white;
+	border: 2px solid #DBDBDB;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+a{ text-decoration: none; color: #333}
+h1{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 2.8em;
+	text-align: center;
+	margin: 25px 0;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+h2{font-size: 1.5em; margin: 8px 0}
+.item{
+	clear: both;
+	margin:0;
+	padding: 10px;
+	overflow: hidden;
+	border-top: 1px solid #DBDBDB;
+}
+.item:last-child{border-bottom:1px solid #DBDBDB}
+.item:hover{background: #f9f9f9}
+.post{
+	width: 600px;
+	float: right;
+	overflow: hidden;
+}
+.post p{text-transform: lowercase;}
+
+/* voting style */
+.vote-span{
+	width: 60px;
+	float: left;
+	margin: 5px 0;
+}
+.vote, .vote-score{
+	clear: both;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	cursor: pointer;
+	text-align: center;
+	color: #333;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+.vote-score{cursor: text}
