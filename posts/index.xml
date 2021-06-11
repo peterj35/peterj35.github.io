@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Memoizations</title>
+    <link>http://peterj35.github.io/posts/</link>
+    <description>Recent content in Posts on Memoizations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>By Peter Ju</copyright>
+    <lastBuildDate>Thu, 10 Jun 2021 22:41:34 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Pickr</title>
+      <link>http://peterj35.github.io/posts/introducing-pickr/</link>
+      <pubDate>Thu, 10 Jun 2021 22:41:34 -0400</pubDate>
+      
+      <guid>http://peterj35.github.io/posts/introducing-pickr/</guid>
+      <description>What is Pickr? It is a tournament style game that can be played online. Players select a topic (or more commonly, may click on a link to find one) for the tournament to be based upon. When the game is opened, users are shown 2 random choices that are essentially contestants for the given topic.
+I pick the Pomeranian, as I&amp;#39;m biased towards breeds with longer furThe player continues to play until only the victor remains, in continuous rounds.</description>
+    </item>
+    
+  </channel>
+</rss>

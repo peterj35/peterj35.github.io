@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Memoizations</title>
+    <link>http://peterj35.github.io/tags/</link>
+    <description>Recent content in Tags on Memoizations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>By Peter Ju</copyright>
+    <lastBuildDate>Thu, 10 Jun 2021 22:41:34 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>projects</title>
+      <link>http://peterj35.github.io/tags/projects/</link>
+      <pubDate>Thu, 10 Jun 2021 22:41:34 -0400</pubDate>
+      
+      <guid>http://peterj35.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

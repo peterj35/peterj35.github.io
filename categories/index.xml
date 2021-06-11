@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Memoizations</title>
+    <link>http://peterj35.github.io/categories/</link>
+    <description>Recent content in Categories on Memoizations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>By Peter Ju</copyright><atom:link href="http://peterj35.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
