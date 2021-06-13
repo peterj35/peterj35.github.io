@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>By Peter Ju</copyright>
-    <lastBuildDate>Thu, 10 Jun 2021 22:41:34 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 02:59:20 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gradual Reopen</title>
+      <link>http://peterj35.github.io/posts/gradual-reopen/</link>
+      <pubDate>Sun, 13 Jun 2021 02:59:20 -0400</pubDate>
+      
+      <guid>http://peterj35.github.io/posts/gradual-reopen/</guid>
+      <description>Yet another strategy for restaurants to maximize patrons given the constraints during the panedemic, has been outdoor partios which have been converted from parking lots.
+Just yesterday, a partial reopen phase began in Ontario, including the reopening of outdoor patios. One interesting difference between this reopen and the previous ones is the fact that last calls have been set back to pre-pandemic times (2AM), as opposed to the brutally tight 9PM in the previous reopen.</description>
+    </item>
+    
     <item>
       <title>Introducing Pickr</title>
       <link>http://peterj35.github.io/posts/introducing-pickr/</link>
