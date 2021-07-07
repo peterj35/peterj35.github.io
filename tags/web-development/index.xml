@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>web-development on Memoizations</title>
+    <link>http://peterj35.github.io/tags/web-development/</link>
+    <description>Recent content in web-development on Memoizations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>By Peter Ju</copyright>
+    <lastBuildDate>Wed, 07 Jul 2021 16:20:03 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extreme Mobile First</title>
+      <link>http://peterj35.github.io/posts/mobile-first/</link>
+      <pubDate>Wed, 07 Jul 2021 16:20:03 -0400</pubDate>
+      
+      <guid>http://peterj35.github.io/posts/mobile-first/</guid>
+      <description>With Pickr, one of the front end engineering philosophies I decided early on was to only design with an extreme mobile first mentality. Mobile first design refers to a design philosophy that aims to create better UX by starting the design process from the smallest of screens, which is mobile. Extreme mobile first refers to a design philosophy where every other design other than mobile is de-prioritized.
+I made this assumption since I imagine most people visiting Pickr will experience mobile, and mobile only.</description>
+    </item>
+    
+  </channel>
+</rss>
