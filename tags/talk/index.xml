@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>talk on Memoizations</title>
+    <title>talk on Sliver of glass, the sun</title>
     <link>http://peterj35.github.io/tags/talk/</link>
-    <description>Recent content in talk on Memoizations</description>
+    <description>Recent content in talk on Sliver of glass, the sun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>By Peter Ju</copyright>
-    <lastBuildDate>Fri, 09 Jul 2021 14:08:18 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Solving the user acquisition problem</title>
-      <link>http://peterj35.github.io/posts/solving-the-user-acquisition-problem/</link>
-      <pubDate>Fri, 09 Jul 2021 14:08:18 -0400</pubDate>
-      
-      <guid>http://peterj35.github.io/posts/solving-the-user-acquisition-problem/</guid>
-      <description>You can build it but will they come?
- In all my 8 years of building software, the biggest challenge is never building the software itself. It&amp;rsquo;s to get real users to actually use it.
- If a tree falls in a forest and nobody&amp;rsquo;s around to hear it, does it make a sound? Alternatively, if a website is published to the internet and nobody visits it, did it make a difference?</description>
-    </item>
-    
+    <lastBuildDate>Fri, 18 Jun 2021 01:16:36 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What to Record</title>
       <link>http://peterj35.github.io/posts/what-to-record/</link>
       <pubDate>Fri, 18 Jun 2021 01:16:36 -0400</pubDate>
       
       <guid>http://peterj35.github.io/posts/what-to-record/</guid>
-      <description>I really enjoy learning things, which I hope everyone on our planet can attest to, so more uniquely, I like teaching people about those things. That&amp;rsquo;s something that really gets me motivated and fulfilled at the end of the day, it&amp;rsquo;s been the case since in my professional life explaining things to coworkers, the case when I was a TA back in university, or when I was tutoring kids English back in Korea.</description>
+      <description>Learning new things are a great pleasure of mine, but even more than that sometimes is the act of spreading this joy by teaching others. That&amp;rsquo;s something that really gets me motivated and fulfilled at the end of the day, it&amp;rsquo;s been the case since in my professional life explaining things to coworkers, the case when I was a TA back in university, or when I was tutoring kids English back in Korea.</description>
     </item>
     
     <item>
