@@ -1,0 +1,7 @@
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://github.com/athul/archie.git
+
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/adityatelange/hugo-PaperMod.git
