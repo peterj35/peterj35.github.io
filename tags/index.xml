@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Sliver of glass, the sun</title>
+    <title>Tags on SWPJ</title>
     <link>http://peterj35.github.io/tags/</link>
-    <description>Recent content in Tags on Sliver of glass, the sun</description>
+    <description>Recent content in Tags on SWPJ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>By Peter Ju</copyright>
-    <lastBuildDate>Tue, 26 Apr 2022 01:48:30 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Peter Ju © all rights reserved.</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 22:50:37 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>talk</title>
+      <link>http://peterj35.github.io/tags/talk/</link>
+      <pubDate>Wed, 12 Oct 2022 22:50:37 -0400</pubDate>
+      
+      <guid>http://peterj35.github.io/tags/talk/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>web-development</title>
       <link>http://peterj35.github.io/tags/web-development/</link>
@@ -23,15 +32,6 @@
       <pubDate>Wed, 07 Jul 2021 16:20:03 -0400</pubDate>
       
       <guid>http://peterj35.github.io/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>http://peterj35.github.io/tags/talk/</link>
-      <pubDate>Fri, 18 Jun 2021 01:16:36 -0400</pubDate>
-      
-      <guid>http://peterj35.github.io/tags/talk/</guid>
       <description></description>
     </item>
     

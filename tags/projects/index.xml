@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>projects on Sliver of glass, the sun</title>
+    <title>projects on SWPJ</title>
     <link>http://peterj35.github.io/tags/projects/</link>
-    <description>Recent content in projects on Sliver of glass, the sun</description>
+    <description>Recent content in projects on SWPJ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>By Peter Ju</copyright>
+    <copyright>Peter Ju © all rights reserved.</copyright>
     <lastBuildDate>Wed, 07 Jul 2021 16:20:03 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extreme Mobile First</title>
