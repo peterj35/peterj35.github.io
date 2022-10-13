@@ -10,10 +10,10 @@
     <lastBuildDate>Wed, 12 Oct 2022 22:50:37 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Product Analytics</title>
-      <link>http://peterj35.github.io/posts/basic-analytics.md/</link>
+      <link>http://peterj35.github.io/posts/basic-analytics/</link>
       <pubDate>Wed, 12 Oct 2022 22:50:37 -0400</pubDate>
       
-      <guid>http://peterj35.github.io/posts/basic-analytics.md/</guid>
+      <guid>http://peterj35.github.io/posts/basic-analytics/</guid>
       <description>The beauty of having something (relatively) complete and available to the general public, is that it can get some legs of its own, and have some exciting moments.
 Pickr.lol has had two big moments in the last half a year, which led me to finally implement some basic Amplitude user tracking.
 One moment was 6 months ago, which was the post Dream SMP member Tournament. There was a post on reddit which got somewhat popular, and brought a lot of new users to the site.</description>
