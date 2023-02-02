@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Peter Ju © all rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 22:50:37 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 03:11:02 -0500</lastBuildDate><atom:link href="http://peterj35.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Tags on Pickr.lol</title>
+      <link>http://peterj35.github.io/posts/introducing-tags/</link>
+      <pubDate>Thu, 02 Feb 2023 03:11:02 -0500</pubDate>
+      
+      <guid>http://peterj35.github.io/posts/introducing-tags/</guid>
+      <description>I&amp;rsquo;m excited to be rolling out some brand new tagging capabilities on Pickr.lol.
+You can select as many of the tag pills you&amp;rsquo;d like, and the topics that are listed will be filtered based on the tags you&amp;rsquo;ve selected.
+ Initial implementation of the Tagging feature  The tags are ordered by the number of topics that the tag currrently has.
+ Huge shout-out to the wonderful folks over at Ring the Belle who brought so much great traffic to the website by publishing a video on Youtube of Who&amp;rsquo;s The Greatest Divas Champion of All Time?</description>
+    </item>
+    
     <item>
       <title>Basic Product Analytics</title>
       <link>http://peterj35.github.io/posts/basic-analytics/</link>
