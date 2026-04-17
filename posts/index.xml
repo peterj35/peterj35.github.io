@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Peter Ju © all rights reserved.</copyright>
-    <lastBuildDate>Thu, 02 Feb 2023 03:11:02 -0500</lastBuildDate><atom:link href="http://peterj35.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Apr 2026 00:00:00 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing for Offline-First: A Three-Tier Connectivity Architecture</title>
+      <link>http://peterj35.github.io/posts/offline-architecture/</link>
+      <pubDate>Tue, 15 Apr 2026 00:00:00 -0400</pubDate>
+
+      <guid>http://peterj35.github.io/posts/offline-architecture/</guid>
+      <description>The app I&amp;rsquo;ve been working on is used in places where internet connectivity ranges from &amp;ldquo;slow&amp;rdquo; to &amp;ldquo;nonexistent&amp;rdquo; &amp;mdash; clinics in rural regions, field operations, locations where the team deliberately brings a laptop to act as a local hub rather than relying on any external network. Designing for these constraints forced a level of architectural thinking I hadn&amp;rsquo;t had to do before.</description>
+    </item>
+
     <item>
       <title>Introducing Tags on Pickr.lol</title>
       <link>http://peterj35.github.io/posts/introducing-tags/</link>
