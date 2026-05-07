@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Peter Ju © all rights reserved.</copyright>
-    <lastBuildDate>Tue, 15 Apr 2026 00:00:00 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Apr 2026 00:00:00 -0400</lastBuildDate><atom:link href="http://peterj35.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding Transactional Emails to Your App</title>
+      <link>http://peterj35.github.io/posts/transactional-emails/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 -0400</pubDate>
+
+      <guid>http://peterj35.github.io/posts/transactional-emails/</guid>
+      <description>Most apps eventually need to send emails. Here&amp;rsquo;s the architecture that works well &amp;mdash; from provider choice to templates, environment guards, and user preferences.</description>
+    </item>
+
     <item>
       <title>Designing for Offline-First: A Three-Tier Connectivity Architecture</title>
       <link>http://peterj35.github.io/posts/offline-architecture/</link>
